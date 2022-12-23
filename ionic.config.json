@@ -1,0 +1,7 @@
+{
+  "name": "FitAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
